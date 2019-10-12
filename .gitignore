@@ -1,0 +1,8 @@
+/.idea
+.idea
+*.iml
+.editorconfig
+.DS_store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
